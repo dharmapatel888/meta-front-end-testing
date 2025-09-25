@@ -1,6 +1,6 @@
+Color name
 Crimson
 Orange
 Blue
 Cyan
 Yellow
-Charcoal
